@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* General Reset */
 * {
   margin: 0;
@@ -104,4 +105,18 @@ body {
 
 .delete-btn:focus {
   outline: none;
+=======
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+>>>>>>> a999a11d66ce32a8f348a5dc5c51c7cd4bed8d3b
 }
